@@ -1,0 +1,23 @@
+﻿  Menu.cpp
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\repo.h(26,3): error C3861: 'v': identifier not found
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\repo.h(61): message : see reference to class template instantiation 'Repo<T>' being compiled
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\repo.h(26,11): error C3861: 'v': identifier not found
+  Service.cpp
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Repo.h(26,3): error C3861: 'v': identifier not found
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Repo.h(61): message : see reference to class template instantiation 'Repo<T>' being compiled
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Repo.h(26,11): error C3861: 'v': identifier not found
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Service.cpp(27,22): error C2664: 'int Repo<Produs>::remove(int)': cannot convert argument 1 from 'Produs' to 'int'
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Service.cpp(27,21): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Repo.h(24,6): message : see declaration of 'Repo<Produs>::remove'
+  Test.cpp
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\repo.h(26,3): error C3861: 'v': identifier not found
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\repo.h(61): message : see reference to class template instantiation 'Repo<T>' being compiled
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\repo.h(26,11): error C3861: 'v': identifier not found
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Test.cpp(50,13): error C2664: 'int Repo<Produs>::remove(int)': cannot convert argument 1 from 'Produs' to 'int'
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Test.cpp(50,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\repo.h(24,6): message : see declaration of 'Repo<Produs>::remove'
+  Ui.cpp
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Repo.h(26,3): error C3861: 'v': identifier not found
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Repo.h(61): message : see reference to class template instantiation 'Repo<T>' being compiled
+C:\Users\Andrei\Desktop\OOP restanta\Lab6-live\Repo.h(26,11): error C3861: 'v': identifier not found
+  Generating Code...
